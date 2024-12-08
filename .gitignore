@@ -1,0 +1,7 @@
+node_modules/
+includes/frontend/react-app/package-lock.json
+includes/frontend/react-app/webpack.config.js
+includes/frontend/assets/bundle.js
+charlotte-ai.zip
+debug.log
+.DS_Store
